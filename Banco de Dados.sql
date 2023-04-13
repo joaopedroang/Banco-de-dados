@@ -98,7 +98,4 @@ VALUES
 	(9, "Noite", 3),
 	(10, "Noite", 4),
 	(11, "Noite", 5),
-	(12, "Noite", 6);
-	
-INSERT INTO aluno
-	
+	(12, "Noite", 6);	
